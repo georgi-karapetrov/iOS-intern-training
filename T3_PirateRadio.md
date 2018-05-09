@@ -3,7 +3,7 @@ In 2007, the first iPhone, the [iPhone 2G](https://en.wikipedia.org/wiki/IPhone_
 
 # We say no
 
-Luckily, free services like [YouTube](https://www.youtube.com) provide their own stream of media of decent quality. With [a few rare excpetions](https://www.youtube.com/watch?v=DkiA3yydKAw), every piece of music is documented and uploaded there. Of course, being "giant corporation" themselves, Google supplies iOS users with a YouTube application. However, in [typical "giant corporation" fashion](http://4liberty.eu/wp-content/uploads/2016/02/RTR2RSIQ.jpg) there are a lot of features which are not accessible to "free" users. A [YouTube Red](https://www.youtube.com/red) subscription is required in order to be able to use the application in its full potential.
+Luckily, free services like [YouTube](https://www.youtube.com) provide their own stream of media of decent quality. With [a few rare exceptions](https://www.youtube.com/watch?v=DkiA3yydKAw), every piece of music is documented and uploaded there. Of course, being "giant corporation" themselves, Google supplies iOS users with a YouTube application. However, in [typical "giant corporation" fashion](http://4liberty.eu/wp-content/uploads/2016/02/RTR2RSIQ.jpg) there are a lot of features which are not accessible to "free" users. A [YouTube Red](https://www.youtube.com/red) subscription is required in order to be able to use the application in its full potential.
 
 # We say no (again)
 
