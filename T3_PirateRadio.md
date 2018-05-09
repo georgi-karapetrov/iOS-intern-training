@@ -22,7 +22,7 @@ After a secret combination of gestures, it enters a 'Pirate' mode. This mode ena
 
 ## How we do it?
 
-The key is in ["Knowing your enemy"](https://www.youtube.com/watch?v=4smim2MNvF8) :)). Get started with YouTube's [developer API](https://developers.google.com/youtube/). _Potip: Create a developer account if you don't already have one._ Then learn about **NSURLSession** [here](https://developer.apple.com/documentation/foundation/nsurlsession). It is the foundation we are going to build our client-server communication on.
+The key is in ["Knowing your enemy"](https://www.youtube.com/watch?v=4smim2MNvF8) :)). Get started with YouTube's [developer API](https://developers.google.com/youtube/). _Protip: Create a developer account if you don't already have one._ Then learn about **NSURLSession** [here](https://developer.apple.com/documentation/foundation/nsurlsession). It is the foundation we are going to build our client-server communication on.
 
 ## Before you start
 
