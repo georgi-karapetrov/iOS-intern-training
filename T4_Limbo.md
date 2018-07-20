@@ -31,6 +31,15 @@ When the user has less than 50% battery, they enter the 'dying' state. This mean
 5. *left blank intentionally, fill with own idea*
 
 It is important to note that charging your device switches the status and one can become Human again, if charged to above 50%.
+Here's a convenient reference table of the interactions between the creatures:
+
+|        | Human | Dying | Hollow | Undead | Ghost |
+|--------|-------|-------|--------|--------|-------|
+| Human  |   ✓   |   ✕   |   ✕    |   ✕    |   ✕   |
+| Dying  |   ✕   |   ✓   |   ✕    |   ✕    |   ✕   |
+| Hollow |   ✕   |   ✓   |   ✓    |   ✕    |   ✕   |
+| Undead |   ✕   |   ✓   |   ✓    |   ✓    |   ✓   |
+| Ghost  |   ✓   |   ✓   |   ✓    |   ✓    |   ✓   |
 
 # In-app purchases
 The users are kindly offered Holy candles ($0.99/candle) and Saint's medallions ($2.99/medallion) to prevent ghost hauntings. Holy candles cure one curse only, while the Saint's medallions provide curse immunity. Too bad they break with use (they only provide 1 hour of immunity).
