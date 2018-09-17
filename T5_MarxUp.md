@@ -1,10 +1,11 @@
 # Introduction
 [_A spectre is haunting Europe — the spectre of communism._](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm)
 
-The year's 2018. Present day, but different times. The Soviet Union has never fallen. In fact, it's world power numer one, tailed by the United States of America. The Iron curtain has been lifted. The market, although not free, offers quite the range of Western commodities. Welcome to an altered future. The Coca-Cola costs 35 Roubles in every country in Europe. No Big Mac-s, though.
+The year's 2018. Present day, but different times. The Soviet Union has never fallen. In fact, it's world power numer one, tailed by the United States of America. The Iron curtain has been lifted. The market, although not free, offers quite the range of Western commodities. Welcome to an altered future. Coca-Cola costs 35 Roubles in every country in Europe. No Big Mac-s, though.
 
 # The task at hand
 
+«Receiving incoming transmission»
 Дорогой/-ая товарищ/-арка, the Central Committee has a special assignment for you. A recent study by the Comintern has discovered that the Proletarian youth, as it is in its current state, has strode so far away from the values of the respectable contemporary communist, that the Committee has started to doubt the previously passed vote for lifting the Iron curtain to the 'commodities of the West', proposed by «certain» members of the Comintern. We need to find a way reach out to the «nadsat-vozrostnyh» (oh how I hate this newly-coined term, they call it «teenagers» in the West). Fear not, however, as we stand here with a solution: a corageous proposition by some of the few molodezhy, not fallen victims of the corrupted western influence.
 
 # The Communist Scrapbook
@@ -26,4 +27,4 @@ Comrade, if you deem this possible, please add a feature to the application wher
 
 # Bottom text
 Make haste, comrade.
-«End of transmition»
+«End of transmission»
