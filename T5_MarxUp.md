@@ -18,7 +18,7 @@ Although critical and requiring urgent measures, the task is far from unachievab
 
 The second part of our glorious and contemporary application is targeted against Western media and negative influence on the minds of the adolescent. Infiltrate the infrastructure of [this](https://imgur.com/) evil capitalist website and make it so that any user can preview its photo content and scratch up with profanity any capitalist propaganda poster they stumble upon. This is done in a manner, similar to the one in the "Holy Scripts" section. A breach into the enemy website has been discovered [here](https://apidocs.imgur.com). If you ever feel unconvinced in your own capabilities, seek help [here](https://www.raywenderlich.com/2862-how-to-make-a-simple-drawing-app-with-uikit). Scribblers unite!
 
-## The Cult of personality
+## The Cult of Personality
 
 What a better way to develop love for oneself but through the ability to capture one's supple frame and enhance it through the means of technology? It is our duty, tovarisch/tovarka, to cater to these needs of the adolescent. And our application will do it. Let them take pictures (of themselves and others) and allow them to beautify them through filters and drawing. What a glorious day to be alive!
 
